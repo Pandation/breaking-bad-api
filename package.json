@@ -2,13 +2,20 @@
   "name": "b-flo-brbd-eval",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://noobdev.fun/florian",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-pro-sidebar": "^0.5.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-spinners": "^0.10.4",
+    "react-virtualized-auto-sizer": "^1.0.4",
+    "react-window": "^1.8.6",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
